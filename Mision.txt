@@ -1,0 +1,25 @@
+
+TO DO
+----------------------------------------------------------------
+
+1. Curar contenido:
+
+    - Formateo de imagenes, Latex,fuentes y correción de estilo.
+
+2. Curar Contenido semántico:
+
+    - Questionar el código apuntes y notas que escribí. 
+    - Integrar Quantum Less Notes.
+    - Pregutnar como Integrar el repositrio de Dani de quantum Education. !!! 
+    
+
+3. Preguntarle a en quantum call sobre las duas que recopile.
+    - Preguntar por sobre como manejar el contenido e imagenes y derechos de autor?
+    - Preguntar si Jose/Jesus conoce contenido educativo para divulgar en física.
+    - Preguntar a Dani si conoce contenido didáctico para data science e ingeniería de software.
+
+
+
+DONE
+----------------------------------------------------------------
+0.  Crear roganización, pedir correos e integrar repo con apuntes.
