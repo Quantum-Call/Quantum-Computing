@@ -1,4 +1,4 @@
-# Globant-Q Quantum Education
+# Quantum Education
 
 This repository is forked from [here](https://github.com/profversaggi/QuantumEducation). The main goal is promote the Quantum culture for all people.
 
