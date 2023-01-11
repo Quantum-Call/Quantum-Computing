@@ -1,0 +1,33 @@
+
+- HistóriCamente los elementos se descrubren bajo la experimentación y 
+agrupación de elemntos con propiedades parecidas se agrupaban juntos
+
+- Clave enteneder reactividad quimica está en los electrones.
+
+- La disposición de los electrones en un átomo es lo que llamamos estructura electronica, esta disposición se refiere al número de electrones,también a su distribucuín al rededor del átomo y a sus energías.
+
+- La forma en que la luz o radiación electromagnética interactúa con la materia ayuda a entender el comportamiento de los átomos.
+
+- La teoría cuántica nace para explicar el comportamiento de los átomos para dar una descripción coherente de las estructuras electrónicas de los elementos.
+
+
+- La radiación electromágnética tiene : Frecuencia, Longitud de Onda, Rapidez.
+
+
+- Los estudios de la radiación emitida por objetos calientes y de la forma en que la luz incide en una superficie metálica puede desprender electrones que indica que la radiación tiene un caracter de partícula y se puede describir en fotones.
+
+
+- El hecho de que los átomos emiten colores característicos, o espectros de líneas da una idea de cómo los electrones se acomodan en lso átomos.
+Esto habla de que los electrones existen únicamente en ciertos niveles de energía.Pasar a otros niveles de energía requiere energía.
+
+- La materia también tiene propiedades ondulatorias y es imposible simultáneamente determinar la posición y el movimiento exactos de un electrón en un átomo. 
+
+- La resolución de la ecuación de Shrödinger da la noción de densidad de probabilidad de encontrar un electrón en determinado orbital.
+
+
+- A través de la historia se estudiaron diferentes propiedades del electrón. El spin, es un número cuántico magnético.
+
+- El Spin es una propiedad intrínseca del electrón, se comporta como la aguja de una brújula, un dipolo y es el mínimo bit que tenemos en la naturaleza, este nos permite codificar información en términos de 0 y 1.
+
+- La superposición entre 0 y 1 viene de rotar el spin y estar en un valor "intermedio". 
+
