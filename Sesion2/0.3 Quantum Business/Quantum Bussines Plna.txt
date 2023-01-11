@@ -1,0 +1,17 @@
+While 
+the smallest unit of information in a classical computer is a 
+bit, a binary digit deterministically represented as either “0” or
+“1”, the nearest equivalent unit in a quantum computer is 
+the qubit, a two-state quantum system probabilistically represented as a coherent superposition of both “0” and “1”. 	
+
+For example, reading one page at a time of a 100-page digital 
+book written in bits tells us 1% more about the book’s information 
+content, unlike if the book were written in entangled qubits, 
+where information is encoded in the correlations among the 
+pages, thus requiring a collective observation of all 100 pages 
+at once to retrieve the book’s information content. But there 
+are exponentially more bits needed to describe the quantum 
+state of qubits: for example, a system with only 100 qubits 
+would require more bits than on all hard drives in the world. 
+With 300 qubits, it would require more bits than the number 
+of atoms in the visible universe

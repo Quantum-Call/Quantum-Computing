@@ -1,0 +1,24 @@
+
+Dos consecuencias d elos hiperplanos
+
+Dicho problema equivalente a Minimizar función cuadrática convexo, es decir desenso gradiente llegamos al mínimo absoluto. Este problema es el mayor problema de las redes neuronales, debido a que terminan teniendo mínimos locales, es decir dificulta el proceso de optimiación.
+
+
+
+El dataset era "linealmente separable", en la realidad puede que exista dichas datasets como un acueraio, un cardumen de peces y crustaceos, donde dicha recta no se peud eencontrar.
+Variables para la "separabilidad"
+Uso funciones Kernel:
+
+Conjunto de datos en 2D que no es linealmente separable.
+
+Toma espacio de datos, podemos mapearlo en un espacio de 3D, más grados de libertad facilita que se encuentre el hiperplano que los divide.
+
+
+
+Un espacio inicial de dimensión n, o atributos diferentes que podemos codificar en fase en cada uno de un qubit distinto, de tal forma que estamos mapeando un espacio de dimensión n a un espacio de 2^n.
+
+- Aún no se sabe que funcioens Kernel son mejores que otras
+-  O sobre qué conjunto de datos es mejor 
+
+
+Las funcioens Kernel transforma en conjuto de datos de entrenamiento, de tal forma que una superficie no linear sea posible tranformarla en una ecuación en un número de espacios dimensionales.

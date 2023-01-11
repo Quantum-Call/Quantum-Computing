@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "8063f09f68b79f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fefb3a9f17968dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d516150bc72e3615",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5bf0bdbfb1e8de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansatz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f3f0569a19df634",
+    "type": "split",
+    "children": [
+      {
+        "id": "a661470a613dbfd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b8e17b743893ac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "890b2f5115720970",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4728b98acbad47e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0eac7cae46ec9f4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6662e12143f689a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb97b287cb7d9007",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ansatz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5bad3628bbe5c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ansatz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7871d991bdd92815",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce693d49415dc13a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ansatz.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d5bf0bdbfb1e8de1",
+  "lastOpenFiles": [
+    "Quantum Support Vector Machine.md",
+    "Ansatz.md",
+    "Circuitos Cuánticos Variacionales.md",
+    "Kernels.md",
+    "Support Vector Machine.md"
+  ]
+}

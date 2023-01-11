@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+https://isg-one.com/articles/quantum-computing-and-the-future-of-big-data
+
+
+
+Con el crecimiento de los datos la complejidad de los cómputos es mucho más exigente, 
+
+Una de las limitaciones d elos algoritmos de ML es que están ligados al´cómuto clásico, el cómputo cuántico es capaz de administrar un dataset muy larogo a altas velocidades.
+
+
+Google’s Sycamore is reported to have solved a problem in 200 seconds that would have taken today’s fastest supercomputer 10,000 years to solve. This opens new possibilities for the future of big data and analytics
+
+
+
+------
+
+Digitlización de la información crea big data.
+
+
+
+Computo en abacos
+Todos estos avances depende de de la industria de los transistores.
+
+
+This involved shrinking transistors to currently about 2 nanometers in size2
+, which represents only a few atoms next to 
+each other. However, at this level, transistors reach quantum 
+physical limits, noise challenges, and the fabrication process 
+becomes uneconomical. As a result, the industry reacted 
+with new 3D hybrid stacking designs, the advancement of 
+application-specific integrated circuits for neuromorphic 
+computing targeting Artificial Intelligence (AI) applications, 
+and the opening of an entire new era of information processing: Quantum Computing (QC)
